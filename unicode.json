@@ -1,0 +1,16 @@
+{
+    "TOTAL": 3,
+    "MAJOR": 3,
+    "ACKNOWLEDGED": 0,
+    "MINOR": 0,
+    "TICKETING": 0,
+    "WARNING": 0,
+    "SPECIALEVENTS": 0,
+    "UNACKCRITICAL": 0,
+    "IPFLAPPING": 0,
+    "OPENTICKETS": 0,
+    "UNACKNOWLEDGED": 3,
+    "CLEAR": 0,
+    "CRITICAL": 0,
+    "ESCALATED": 0
+}
